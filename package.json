@@ -1,0 +1,22 @@
+{
+    "name": "centurycolors",
+    "displayName": "CenturyColors",
+    "description": "A customized Monokai color theme I used for regular Visual Studio before moving to VSCode",
+    "version": "0.0.1",
+    "publisher": "bowtoes",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Century Colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Century Colors.color-theme.json"
+            }
+        ]
+    }
+}

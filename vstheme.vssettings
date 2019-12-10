@@ -1,0 +1,474 @@
+Artboard Background
+      Foreground = 00000002
+      Background = 00000002
+      BoldFont = No
+
+Visible Whitespace
+      Foreground = C5DADE00
+      Background = FFFFFF00
+      BoldFont = Yes
+Indicator Margin
+      Foreground = 00000002
+      Background = 00000002
+      BoldFont = No
+Inactive Selected Text
+      Foreground = 00000002
+      Background = A5A55D00
+      BoldFont = No
+Selected Text
+      Foreground = 00000002
+      Background = C5C55D00
+      BoldFont = No
+Plain Text
+      Foreground = F8F8F200
+      Background = 0D101100
+      BoldFont = No
+
+Odd Row Items
+      Foreground = 00000000
+      Background = FFFFFF00
+      BoldFont = No
+Even Row Items
+      Foreground = 00000000
+      Background = FFFFFF00
+      BoldFont = No
+Not Downloaded
+      Foreground = 99999900
+      Background = FFFFFF00
+      BoldFont = No
+Target Only
+      Foreground = 00000000
+      Background = FFFFFF00
+      BoldFont = No
+Source Only
+      Foreground = 00000000
+      Background = FFFFFF00
+      BoldFont = No
+Identical content
+      Foreground = 00000000
+      Background = FFFFFF00
+      BoldFont = No
+Different content
+      Foreground = E5140000
+      Background = FFFFFF00
+      BoldFont = No
+
+Breakpoint (Enabled)
+      Foreground = FFFFFF00
+      Background = F8333300
+      BoldFont = No
+Current Statement
+      Foreground = 00000000
+      Background = FFC43D00
+      BoldFont = No
+Brace Matching (Rectangle)
+      Foreground = 00000002
+      Background = CEBCEF00
+      BoldFont = No
+syntax error
+      Foreground = D0200000
+      Background = 00000002
+      BoldFont = No
+
+MarkerFormatDefinition/FindHighlight
+      Foreground = 00000000
+      Background = A5A55D00
+      BoldFont = No
+XML Doc Comment
+      Foreground = 75715E00
+      Background = 00000002
+      BoldFont = No
+MarkerFormatDefinition/HighlightedReference
+      Foreground = 00000002
+      Background = 53807900
+      BoldFont = No
+CppNamespaceSemanticTokenFormat
+      Foreground = 5EFFC700
+      Background = 00000002
+      BoldFont = Yes
+CppClassTemplateSemanticTokenFormat
+     
+      Foreground = 17FFD000
+      Background = 00000002
+      BoldFont = No
+CppStaticMemberFieldSemanticTokenFormat
+      Foreground = 00000002
+      Background = 00000002
+      BoldFont = No
+CppStaticMemberFunctionSemanticTokenFormat
+      Foreground = E5986100
+      Background = 00000002
+      BoldFont = No
+CppMemberFieldSemanticTokenFormat
+      Foreground = F8E6D800
+      Background = 00000002
+      BoldFont = No
+CppMemberFunctionSemanticTokenFormat
+      Foreground = E5986100
+      Background = 00000002
+      BoldFont = No
+CppFunctionSemanticTokenFormat
+      Foreground = E5986100
+      Background = 00000002
+      BoldFont = No
+CppTypeSemanticTokenFormat
+      Foreground = 66D9EF00
+      Background = 00000002
+      BoldFont = No
+CppParameterSemanticTokenFormat
+      Foreground = F8E6D800
+      Background = 00000002
+      BoldFont = Yes
+CppLocalVariableSemanticTokenFormat
+      Foreground = 00000002
+      Background = 00000002
+      BoldFont = No
+CppGlobalVariableSemanticTokenFormat
+      Foreground = E5986100
+      Background = 00000002
+      BoldFont = No
+CppEnumSemanticTokenFormat
+      Foreground = E5986100
+      Background = 00000002
+      BoldFont = No
+CppMacroSemanticTokenFormat
+      Foreground = D270C400
+      Background = 00000002
+      BoldFont = No
+Inactive Selected Text
+      Foreground = 00000002
+      Background = A5A55D00
+      BoldFont = No
+Selected Text
+      Foreground = 00000002
+      Background = C5C55D00
+      BoldFont = No
+urlformat
+      Foreground = FFE79200
+      Background = 00000002
+      BoldFont = No
+CurrentLineActiveFormat
+      Foreground = 30393800
+      Background = 30393800
+      BoldFont = No
+outlining.square
+      Foreground = 55555500
+      Background = E2E2E200
+      BoldFont = No
+outlining.verticalrule
+      Foreground = A5A5A500
+      Background = 00000002
+      BoldFont = No
+outlining.collapsehintadornment
+      Foreground = D7DDE800
+      Background = 1D1D1F00
+      BoldFont = No
+Visible Whitespace
+      Foreground = C5DADE00
+      Background = FFFFFF00
+      BoldFont = Yes
+Line Number
+      Foreground = AE81FF00
+      Background = 20202400
+      BoldFont = No
+syntax error
+      Foreground = D0200000
+      Background = 00000002
+      BoldFont = No
+Number
+      Foreground = AE81FF00
+      Background = 00000002
+      BoldFont = Yes
+Type
+      Foreground = 66D9EF00
+      Background = 00000002
+      BoldFont = No
+String
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+Literal
+      Foreground = 00000002
+      Background = 00000002
+      BoldFont = No
+Operator
+      Foreground = F9267200
+      Background = 00000002
+      BoldFont = No
+Preprocessor Keyword
+      Foreground = 838DBA00
+      Background = 00000002
+      BoldFont = No
+Keyword
+      Foreground = F9267200
+      Background = 00000002
+      BoldFont = No
+Excluded Code
+      Foreground = 75715E00
+      Background = 00000002
+      BoldFont = No
+Comment
+      Foreground = 75715E00
+      Background = 00000002
+      BoldFont = Yes
+namespace name
+      Foreground = AE81FF00
+      Background = 01000001
+      BoldFont = Yes
+event name
+      Foreground = 17FFF300
+      Background = 01000001
+      BoldFont = No
+property name
+      Foreground = 00000001
+      Background = 01000001
+      BoldFont = Yes
+extension method name
+      Foreground = 45E45500
+      Background = 01000001
+      BoldFont = No
+method name
+      Foreground = A6E22E00
+      Background = 01000001
+      BoldFont = No
+constant name
+      Foreground = AE81FF00
+      Background = 01000001
+      BoldFont = No
+enum member name
+      Foreground = A6E22E00
+      Background = 01000001
+      BoldFont = No
+field name
+      Foreground = 00000001
+      Background = 01000001
+      BoldFont = Yes
+type parameter name
+      Foreground = 45E45500
+      Background = 00000002
+      BoldFont = Yes
+struct name
+      Foreground = 17FFF300
+      Background = 00000002
+      BoldFont = No
+module name
+      Foreground = 17FFF300
+      Background = 00000002
+      BoldFont = No
+interface name
+      Foreground = B0FF7B00
+      Background = 00000002
+      BoldFont = No
+enum name
+      Foreground = A6E22E00
+      Background = 00000002
+      BoldFont = No
+delegate name
+      Foreground = 17FFF300
+      Background = 00000002
+      BoldFont = No
+class name
+      Foreground = 17FFF300
+      Background = 00000002
+      BoldFont = No
+operator - overloaded
+      Foreground = F9267200
+      Background = 01000001
+      BoldFont = Yes
+preprocessor text
+      Foreground = AE81FF00
+      Background = 00000002
+      BoldFont = Yes
+RoslynActiveStatementTag
+      Foreground = 00000002
+      Background = 9D550F00
+      BoldFont = No
+HTML Tag Delimiter
+      Foreground = F8F8F200
+      Background = 00000002
+      BoldFont = No
+HTML Server-Side Script
+      Foreground = 00000002
+      Background = 00000002
+      BoldFont = No
+HTML Operator
+      Foreground = F9267200
+      Background = 00000002
+      BoldFont = No
+HTML Entity
+      Foreground = AE81FF00
+      Background = 00000002
+      BoldFont = No
+HTML Element Name
+      Foreground = F9267200
+      Background = 00000002
+      BoldFont = No
+HTML Comment
+      Foreground = 75715E00
+      Background = 00000002
+      BoldFont = No
+HTML Attribute Value
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+HTML Attribute
+      Foreground = A6E22E00
+      Background = 00000002
+      BoldFont = No
+CSS String Value
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+CSS Property Value
+      Foreground = AE81FF00
+      Background = 00000002
+      BoldFont = No
+CSS Property Name
+      Foreground = 66D9EF00
+      Background = 00000002
+      BoldFont = No
+CSS Selector
+      Foreground = A6E22E00
+      Background = 00000002
+      BoldFont = No
+CSS Keyword
+      Foreground = FF206F00
+      Background = 00000002
+      BoldFont = No
+ASD-ESH.Definition.Property
+      Foreground = F8F8F200
+      Background = 01000001
+      BoldFont = Yes
+ASD-ESH.Definition.Parameter
+      Foreground = F8F8F200
+      Background = 01000001
+      BoldFont = No
+ASD-ESH.Definition.Namespace
+      Foreground = AE81FF00
+      Background = 01000001
+      BoldFont = No
+ASD-ESH.Definition.MethodStatic
+      Foreground = A6E22E00
+      Background = 01000001
+      BoldFont = Yes
+ASD-ESH.Definition.MethodExtension
+      Foreground = 45E45500
+      Background = 01000001
+      BoldFont = Yes
+ASD-ESH.Definition.Method
+      Foreground = A6E22E00
+      Background = 01000001
+      BoldFont = Yes
+ASD-ESH.Definition.Enum
+      Foreground = 00000001
+      Background = 01000001
+      BoldFont = Yes
+ASD-ESH.Definition.FieldConstant
+      Foreground = AE81FF00
+      Background = 01000001
+      BoldFont = Yes
+ASD-ESH.Definition.Field
+      Foreground = F8F8F200
+      Background = 01000001
+      BoldFont = Yes
+ASD-ESH.Definition.Event
+      Foreground = 17FFF300
+      Background = 01000001
+      BoldFont = No
+
+XML Attribute Quotes
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+XML Attribute Value
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+XML CData Section
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+XML Attribute
+      Foreground = 66D9EF00
+      Background = 00000002
+      BoldFont = No
+XML Name
+      Foreground = F8F8F200
+      Background = 00000002
+      BoldFont = No
+XML Comment
+      Foreground = 75715E00
+      Background = 00000002
+      BoldFont = No
+XML Delimiter
+      Foreground = F8F8F200
+      Background = 00000002
+      BoldFont = No
+XML Keyword
+      Foreground = F9267200
+      Background = 00000002
+      BoldFont = No
+XML Text
+      Foreground = F8F8F200
+      Background = 00000002
+      BoldFont = No
+XAML Markup Extension Parameter Value
+      Foreground = FFE79200
+      Background = 00000002
+      BoldFont = No
+XAML Markup Extension Parameter Name
+      Foreground = A6E22E00
+      Background = 00000002
+      BoldFont = No
+XAML Markup Extension Class
+      Foreground = FFE79200
+      Background = 00000002
+      BoldFont = No
+XAML Attribute Quotes
+      Foreground = 00000000
+      Background = 00000002
+      BoldFont = No
+XAML Attribute Value
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+XAML CData Section
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+XAML Attribute
+      Foreground = 66D9EF00
+      Background = 00000002
+      BoldFont = No
+XAML Name
+      Foreground = F9267200
+      Background = 00000002
+      BoldFont = No
+XAML Comment
+      Foreground = 75715E00
+      Background = 00000002
+      BoldFont = No
+XAML Delimiter
+      Foreground = F8F8F200
+      Background = 00000002
+      BoldFont = No
+XAML Text
+      Foreground = 00000002
+      Background = 00000002
+      BoldFont = No
+Number
+      Foreground = AE81FF00
+      Background = 00000002
+      BoldFont = Yes
+String
+      Foreground = E6DB7400
+      Background = 00000002
+      BoldFont = No
+Comment
+      Foreground = 75715E00
+      Background = 00000002
+      BoldFont = Yes
+Keyword
+      Foreground = F9267200
+      Background = 00000002
+      BoldFont = No
